@@ -1,8 +1,6 @@
-# React Native Lab 2
+# ⚡️React Native Lab 2
 
-### To follow along
-
-Welcome to our crash course on how to create a mobile app with React Native! Today's lab has three parts. You can check it out [here](https://github.com/Snap-Engineering-Academy-2022/react_native_lab2_instructions/blob/main/README.md).
+Welcome to this crash course on how to create a mobile app with React Native! Today's lab has three parts. We're gonna make a **UberEats / DoorDash / Postmates / GrubHub clone**!
 
 ### To run
 
@@ -10,14 +8,6 @@ Welcome to our crash course on how to create a mobile app with React Native! Tod
 2. Git clone the forked repo.
 3. In your terminal, run `yarn install`
 4. Then launch the project with `expo start`
-
-# ⚡️React Native Lab 2
-
-Welcome to this crash course on how to create a mobile app with React Native! Today's lab has three parts. We're gonna make a **UberEats / DoorDash / Postmates / GrubHub clone**!
-
-## 👇🏼 First up, fork and clone the lab repo 👇🏼
-
-[React Native Lab 2](https://github.com/Snap-Engineering-Academy-2022/react_native_lab2)
 
 ### Remember, the first time you clone a React Native repo, you'll need to `yarn install`!
 
