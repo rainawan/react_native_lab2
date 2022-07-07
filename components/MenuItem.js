@@ -11,12 +11,13 @@ function MenuItem(props) {
     <View style={styles.container}>
       <View style={styles.photoContainer}>
         <Image
-          source={require("../assets/placeholder-image.png")}
+          // source={require("../assets/placeholder-image.png")}
+          source={props.imageSource}
           style={styles.photo}
         />
       </View>
-      <Text style={{ fontWeight: "bold" }}>{"FOOD NAME"}</Text>
-      <Text>Price: ${1000}</Text>
+      <Text style={{ fontWeight: "bold" }}>{props.name}</Text>
+      <Text>Price: ${props.price}</Text>
       <Text>Quantity: {quantity}</Text>
       <View style={styles.buttonsContainer}>
         <Button
